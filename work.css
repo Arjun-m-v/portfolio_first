@@ -1,0 +1,212 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.first{
+    position: relative;
+    height: 750px;
+    background-color: #8EE4AF;
+}
+
+#i1{
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    top: 50px;
+    left: 80px;
+}
+
+#i1:hover{
+    transform: scale(1.05);
+}
+
+#i2{
+    position: absolute;
+    height: 450px;
+    width: 400px;
+    top: 200px;
+    right: 150px;
+}
+
+#i2:hover{
+    transform: scale(1.05);
+}
+
+#hh4{
+    position: absolute;
+    top: 45px;
+    right: 75px;
+    font-style: oblique;
+}
+
+#hh4:hover{
+    transform: scale(1.05);
+}
+
+#hh3{
+    position: absolute;
+    top: 45px;
+    right: 200px;
+    font-style: oblique;
+}
+
+#hh3:hover{
+    transform: scale(1.05);
+}
+
+#hh2{
+    position: absolute;
+    top: 45px;
+    right: 300px;
+    font-style: oblique;
+}
+
+#hh2:hover{
+    transform: scale(1.05);
+}
+
+#hh1{
+    position: absolute;
+    top: 45px;
+    right: 400px;
+    font-style: oblique;
+}
+
+#hh1:hover{
+    transform: scale(1.05);
+}
+
+#p1{
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    font-size: 60px;
+}
+
+#l1:hover{
+    transform: scale(1.05);
+}
+
+#p2{
+    position: absolute;
+    top: 390px;
+    left: 300px;
+    font-size: 18px;
+    font-style: italic;
+}
+
+button{
+    border-color: black;
+    background-color: blueviolet;
+    color: black;
+    position: absolute;
+    padding: 5px 15px;
+    left: 300px;
+    top: 480px;
+}
+
+button:hover{
+    background-color: blue;
+}
+
+.second{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: #5CDB95;
+}
+
+#hhh1{
+    text-align: center;
+    font: revert;
+    font-size:40px;
+    text-decoration: underline;
+    color: blue;
+}
+
+#pp1{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+
+#pp2{
+    position: absolute;
+    left: 20px;
+    right: 20px;
+    top: 130px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+#hhh3{
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    text-decoration: underline;
+    color: brown;
+}
+
+#pp3{
+    position: absolute;
+    bottom: 125px;
+    left: 200px;
+}
+
+#hhh4{
+    position: absolute;
+    right: 550px;
+    bottom: 250px;
+    text-decoration: underline;
+    color: chocolate;
+}
+
+#s1{
+    position: absolute;
+    right: 682px;
+    bottom: 220px;
+}
+
+#s2{
+    position: absolute;
+    right: 680px;
+    bottom: 180px;
+}
+
+#s3{
+    position: absolute;
+    right: 680px;
+    bottom: 140px;
+}
+
+#d1{
+    position: absolute;
+    bottom: 200px;
+    right: 590px;
+}
+
+#d2{
+    position: absolute;
+    bottom: 160px;
+    right: 576px;
+}
+
+#d3{
+    position: absolute;
+    bottom: 120px;
+    right: 466px;
+}
+
+#i3{
+    position: absolute;
+    right: 30px;
+    bottom: 50px;
+    height: 280px;
+    width: 380px;
+}
+
+#i3:hover{
+    transform: scale(1.05);
+}
